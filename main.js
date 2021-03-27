@@ -8,7 +8,7 @@ All rights reserved.
   const Discord = require('discord.js');
   const client = new Discord.Client();
   const fs = require('fs');
-  const creators = '[theandor](https://github.com/theandor), [RTSProductions](https://github.com/RTSProductions) and [contributors](https://github.com/theandor/Trilodeinx-Discord-Bot/graphs/contributors)';
+  const creators = '[theandor](https://github.com/theandor), [RTSProductions](https://github.com/RTSProductions) and [contributors](https://github.com/theandor/TriloDeInxDiscordBot/graphs/contributors)';
   //ads a status
   client.on('ready', () => {
       console.info(`Logged in as`)
