@@ -1,0 +1,18 @@
+events/onReady.java
+ events.onReady
+events/commands/dice.java
+ events.commands.dice
+events/commands/kick.java
+ events.commands.kick
+events/MessageCreate.java
+ events.MessageCreate
+main.java
+ main
+events/commands/commandList.java
+ events.commands.commandList
+events/commands/ban.java
+ events.commands.ban
+events/commands/about.java
+ events.commands.about
+events/commands/actionCommands.java
+ events.commands.actionCommands
